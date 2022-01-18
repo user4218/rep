@@ -1,0 +1,1 @@
+MSYS_NT-10.0-18167 LAPTOP-MHCDBQ70 3.1.7-340.x86_64 2021-10-12 16:29 UTC x86_64 Msys(nic mi nie pokazuje;c)
